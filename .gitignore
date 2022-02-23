@@ -1,0 +1,4 @@
+dist
+.cache
+read.txt
+node_modules
